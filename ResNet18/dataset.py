@@ -51,7 +51,7 @@ def prepare_data():
     image_label = []
 
     emotion_mapping = {'angry' : 0, 'disgust' : 1,'fear' : 2,'happy' : 3,'sad' : 4,'surprise' : 5, 'neutral' : 6}
-    test_root_path = '/home/laptop-kl-11/personal_project/face_expression_classification/dataset/test'
+    test_root_path = '../dataset/test/'
     for emotion_dir in os.listdir(test_root_path):
         for img_name in os.listdir(os.path.join(test_root_path,emotion_dir)):
             img = cv2.imread(os.path.join(test_root_path,emotion_dir,img_name),cv2.IMREAD_GRAYSCALE)
