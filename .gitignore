@@ -2,3 +2,4 @@ face_exp_venv
 dataset/test
 dataset/train
 LHC_Net/LHC_venv
+my_model/my_model_venv
