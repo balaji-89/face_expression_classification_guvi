@@ -1,5 +1,3 @@
-Here's a **README template** tailored for your facial expression recognition project:
-
 ---
 
 # **Facial Expression Recognition**
