@@ -1,9 +1,10 @@
+
 ---
 
 # **Facial Expression Recognition**
 
 ## **Overview**
-This project focuses on building a deep learning-based model for recognizing facial expressions. The model is trained on grayscale images of size 48x48, representing 7 distinct emotions: **Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral**. The project aims to achieve accurate emotion classification while maintaining efficiency, leveraging hyperparameter tuning and GPU acceleration.
+This project focuses on building a deep learning-based model for recognizing facial expressions. The model is trained on grayscale images of size 48x48, representing 7 distinct emotions: **Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral**. The project aims to achieve accurate emotion classification while maintaining efficiency and leveraging hyperparameter tuning and GPU acceleration.
 
 ---
 
